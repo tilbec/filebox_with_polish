@@ -4,6 +4,65 @@ body {
   font-family: "Open Sans";
 }
 
+p {
+  font-weight: 100;
+  font-size: 20px;
+  color: #3d464d;
+  line-height: 1.75;
+}
+
+h1 {
+  font-weight: 200;
+  color: #3d464d;
+  line-height: 1.25;
+}
+
+h2 {
+  font-weight: 200;
+  color: #3d464d;
+  line-height: 1.25;
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 16px;
+  color: #9A9A9A;
+  line-height: 0.8;
+}
+
+ul.arranged {
+  color: #7E7E7E;
+  line-height: 2.2;
+  font-weight: 400;
+}
+
+.navbar-default {
+  background-color: #FFFFFF;
+  padding-bottom: 0.5px;
+  padding-top: 0.5px;
+}
+
+.navbar-default .navbar-brand {
+  color: #007ee5;
+}
+
+.navbar-default .btn-link {
+  color: #007ee5;
+}
+
+.navbar-default .btn-default {
+  color: #007ee5;
+}
+
+div.background_col {
+  background-color: #FBFBFB;
+}
+
+div.diff {
+  background-color: white;
+}
+
+
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
