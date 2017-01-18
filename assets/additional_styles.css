@@ -2,6 +2,12 @@
 
 body {
   font-family: "Open Sans";
+  background-color: #FBFBFB;
+}
+
+form.form-tight {
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 p {
@@ -52,12 +58,6 @@ ul.arranged {
 
 .navbar-default .btn-default {
   color: #007ee5;
-}
-
-div.background_c {
-  background-color: #FBFBFB;
-  margin: 0 auto;
-  width: 100%;
 }
 
 div.diff {
