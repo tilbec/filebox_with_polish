@@ -54,14 +54,15 @@ ul.arranged {
   color: #007ee5;
 }
 
-div.background_col {
+div.background_c {
   background-color: #FBFBFB;
+  margin: 0 auto;
+  width: 100%;
 }
 
 div.diff {
   background-color: white;
 }
-
 
 /* My standard vertical spacing classes */
 
